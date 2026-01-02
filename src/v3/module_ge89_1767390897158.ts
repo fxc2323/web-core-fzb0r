@@ -1,0 +1,1 @@
+const util_ge89 = (d: any) => d;
